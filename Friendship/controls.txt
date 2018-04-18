@@ -1,0 +1,21 @@
+Left Mapping:
+Q: Front thrust
+A: Reload
+W: Power up engine
+S: Power down engine
+E: Crosshair -y
+D: CrossHair +y
+
+Right Mapping
+Front thrust :P
+Reload :;
+Power up engine :O
+Power down engine :L
+Crosshair -x :J
+CrossHair +y :K
+
+
+
+
+Shared:
+Space Bar : Shoot
